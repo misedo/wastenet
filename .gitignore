@@ -1,7 +1,6 @@
 # Ignore PyTorch compiled files
 .env/
-.py/
-.ipynb_checkpoints/
+ipynb_checkpoints/
 
 # Ignore conda environment files
 conda-env/
