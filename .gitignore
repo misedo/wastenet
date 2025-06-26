@@ -1,0 +1,37 @@
+# Ignore PyTorch compiled files
+.env/
+.py/
+.ipynb_checkpoints/
+
+# Ignore conda environment files
+conda-env/
+/miniconda3/pkgs/
+/miniconda3/etc/conda/  # Be cautious with this one!
+wasteenv/
+wastedata/
+
+
+# Ignore virtualenv files
+venv/
+build/
+dist/
+
+#Ignore data files
+data/
+wastedata_split/
+wastedata/
+*.zip
+*.h5
+*.jpg
+*.keras
+
+# Jupyter notebook files (these will be tracked by default)
+notebook.ipynb
+*.py
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Conda environment details (optional but helpful)
+envs/

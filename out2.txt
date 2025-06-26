@@ -1,0 +1,147 @@
+2025-06-22 22:48:05.848067: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-06-22 22:48:05.861025: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2025-06-22 22:48:05.874378: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8473] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2025-06-22 22:48:05.878323: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1471] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2025-06-22 22:48:05.887914: I tensorflow/core/platform/cpu_feature_guard.cc:211] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1750632488.638218   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632488.700087   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632488.700193   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632489.676468   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632489.676549   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632489.676573   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632489.815609   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+I0000 00:00:1750632489.815716   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2025-06-22 22:48:09.815770: I tensorflow/core/common_runtime/gpu/gpu_device.cc:2112] Could not identify NUMA node of platform GPU id 0, defaulting to 0.  Your kernel may not have been built with NUMA support.
+I0000 00:00:1750632489.815868   17618 cuda_executor.cc:1001] could not open file to read NUMA node: /sys/bus/pci/devices/0000:01:00.0/numa_node
+Your kernel may have been built without NUMA support.
+2025-06-22 22:48:09.815934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:2021] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 26747 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 5090, pci bus id: 0000:01:00.0, compute capability: 12.0
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target (ignoring feature)
+ (ignoring feature)
+''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target (ignoring feature)
+ (ignoring feature)
+''+ptx85+ptx85' is not a recognized feature for this target' is not a recognized feature for this target (ignoring feature)
+ (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+'+ptx85' is not a recognized feature for this target (ignoring feature)
+2025-06-22 22:48:20.294468: I tensorflow/core/framework/local_rendezvous.cc:404] Local rendezvous is aborting with status: INVALID_ARGUMENT: Error in user-defined function passed to ParallelMapDatasetV2:1 transformation with iterator: Iterator::Root::Prefetch::ParallelMapV2::ParallelMapV2::Prefetch::BatchV2::Shuffle::Zip[0]::ParallelMapV2: Unknown image file format. One of JPEG, PNG, GIF, BMP required.
+	 [[{{node decode_image/DecodeImage}}]]
+	 [[IteratorGetNext]]
+2025-06-22 22:48:20.294539: I tensorflow/core/framework/local_rendezvous.cc:404] Local rendezvous is aborting with status: INVALID_ARGUMENT: Error in user-defined function passed to ParallelMapDatasetV2:1 transformation with iterator: Iterator::Root::Prefetch::ParallelMapV2::ParallelMapV2::Prefetch::BatchV2::Shuffle::Zip[0]::ParallelMapV2: Unknown image file format. One of JPEG, PNG, GIF, BMP required.
+	 [[{{node decode_image/DecodeImage}}]]
+	 [[IteratorGetNext]]
+	 [[IteratorGetNext/_4]]
+2025-06-22 22:48:20.294571: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 8031843243549828224
+2025-06-22 22:48:20.294621: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 9033853875456960340
+Traceback (most recent call last):
+  File "/workspace/project/train3.py", line 116, in <module>
+    history = model.fit(train_ds, epochs=INITIAL_EPOCHS, validation_data=val_ds)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/lib/python3.12/dist-packages/tf_keras/src/utils/traceback_utils.py", line 70, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "/usr/local/lib/python3.12/dist-packages/tensorflow/python/eager/execute.py", line 53, in quick_execute
+    tensors = pywrap_tfe.TFE_Py_Execute(ctx._handle, device_name, op_name,
+  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+tensorflow.python.framework.errors_impl.InvalidArgumentError: Graph execution error:
+
+Detected at node decode_image/DecodeImage defined at (most recent call last):
+<stack traces unavailable>
+Detected at node decode_image/DecodeImage defined at (most recent call last):
+<stack traces unavailable>
+2 root error(s) found.
+  (0) INVALID_ARGUMENT:  Error in user-defined function passed to ParallelMapDatasetV2:1 transformation with iterator: Iterator::Root::Prefetch::ParallelMapV2::ParallelMapV2::Prefetch::BatchV2::Shuffle::Zip[0]::ParallelMapV2: Unknown image file format. One of JPEG, PNG, GIF, BMP required.
+	 [[{{node decode_image/DecodeImage}}]]
+	 [[IteratorGetNext]]
+	 [[IteratorGetNext/_4]]
+  (1) INVALID_ARGUMENT:  Error in user-defined function passed to ParallelMapDatasetV2:1 transformation with iterator: Iterator::Root::Prefetch::ParallelMapV2::ParallelMapV2::Prefetch::BatchV2::Shuffle::Zip[0]::ParallelMapV2: Unknown image file format. One of JPEG, PNG, GIF, BMP required.
+	 [[{{node decode_image/DecodeImage}}]]
+	 [[IteratorGetNext]]
+0 successful operations.
+0 derived errors ignored. [Op:__inference_train_function_9481]
+2025-06-22 22:48:20.597001: I tensorflow/core/framework/local_rendezvous.cc:404] Local rendezvous is aborting with status: CANCELLED: RecvAsync is cancelled.
+	 [[{{node random_augmentation_pipeline/map/while/body/_1/random_augmentation_pipeline/map/while/cond/else/_63/random_augmentation_pipeline/map/while/cond/random_choice/switch_case/indexed_case/branch0/_81/random_augmentation_pipeline/map/while/cond/random_choice/switch_case/indexed_case/random_flip/stateful_uniform/RngReadAndSkip/_44}}]]
+	 [[random_augmentation_pipeline/map/while/body/_1/random_augmentation_pipeline/map/while/cond/else/_63/random_augmentation_pipeline/map/while/cond/random_choice/switch_case/indexed_case/branch0/_81/random_augmentation_pipeline/map/while/cond/random_choice/switch_case/indexed_case/random_flip/stateful_uniform/Cast_1/_40]] [type.googleapis.com/tensorflow.DerivedStatus='']
+2025-06-22 22:48:20.597338: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 18024608906390413449
+2025-06-22 22:48:20.597436: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12531254633020309819
+2025-06-22 22:48:20.597524: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 7704067082035397523
+2025-06-22 22:48:20.597610: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12492710898520966683
+2025-06-22 22:48:20.597694: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 3181669839447157149
+2025-06-22 22:48:20.597784: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 761851824644671887
+2025-06-22 22:48:20.597875: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 14917033332843703801
+2025-06-22 22:48:20.597960: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 1289000345824669589
+2025-06-22 22:48:20.598079: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12515772683715311393
+2025-06-22 22:48:20.598159: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 6215772439174175167
+2025-06-22 22:48:20.598271: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 15982331919672769133
+2025-06-22 22:48:20.598341: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 14062024573893868155
+2025-06-22 22:48:20.598406: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 6372071361278819629
+2025-06-22 22:48:20.598472: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 6196600136761343541
+2025-06-22 22:48:20.598589: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 17811688379013006408
+2025-06-22 22:48:20.598665: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 2933301407463335494
+2025-06-22 22:48:20.598795: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 16495385085646522464
+2025-06-22 22:48:20.598896: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 15965840545160145028
+2025-06-22 22:48:20.598915: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 9166869271216433784
+2025-06-22 22:48:20.598928: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12424630955603454676
+2025-06-22 22:48:20.598940: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 5537859904325217088
+2025-06-22 22:48:20.598950: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 1494482863063060540
+2025-06-22 22:48:20.598961: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 6265013755033694482
+2025-06-22 22:48:20.598971: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 1645923962407547602
+2025-06-22 22:48:20.598982: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 13508661250647560904
+2025-06-22 22:48:20.598994: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 16686148862321128586
+2025-06-22 22:48:20.599006: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 11599823779344963174
+2025-06-22 22:48:20.599017: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12337891277596424178
+2025-06-22 22:48:20.599032: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 6540860166401316876
+2025-06-22 22:48:20.599048: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 15945352115313228392
+2025-06-22 22:48:20.599068: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 8680454364541115784
+2025-06-22 22:48:20.599085: I tensorflow/core/framework/local_rendezvous.cc:423] Local rendezvous recv item cancelled. Key hash: 12763372770194226596
